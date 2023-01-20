@@ -1,4 +1,4 @@
-module up_down_counter #(
+module two_way_counter #(
 parameter N = 4
 ) (
   input logic clock,
